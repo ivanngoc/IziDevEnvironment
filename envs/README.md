@@ -1,2 +1,2 @@
 # CLI Powershell
-.\load-env.ps1 server.env
+.\load-env.ps1
